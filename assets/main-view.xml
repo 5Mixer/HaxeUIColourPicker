@@ -1,0 +1,11 @@
+<vbox style="padding: 5px;" width="100%" height="100%">
+    <grid width="100%" height="50%">
+        <frame text="HSL" horizontalAlign="right" width="50%" height="100%">
+            <ColourPicker width="100%" height="100%" />
+        </frame>
+        <frame text="HSV" horizontalAlign="right" width="50%" height="100%">
+            <ColourPicker width="100%" height="100%" />
+        </frame>
+    </grid>
+    <label text="Colour: " />
+</vbox>
